@@ -8,7 +8,8 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          I Love You Dorinne! I miss you so much
+            Iwasan ang pag-gastos Da. Please. Tipid us.
+            Para makakain us uli sa UST. Miss ko na mga datez natin.
         </p>
         <a
           className="App-link"
@@ -16,7 +17,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Love, Franz
+          Love, Franz 💖
         </a>
       </header>
     </div>
