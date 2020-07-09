@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/gh-Estes-Project/static/css/main.5f361e03.chunk.css",
+    "main.js": "/gh-Estes-Project/static/js/main.6f91d205.chunk.js",
+    "main.js.map": "/gh-Estes-Project/static/js/main.6f91d205.chunk.js.map",
+    "runtime-main.js": "/gh-Estes-Project/static/js/runtime-main.be344119.js",
+    "runtime-main.js.map": "/gh-Estes-Project/static/js/runtime-main.be344119.js.map",
+    "static/js/2.2eb349f8.chunk.js": "/gh-Estes-Project/static/js/2.2eb349f8.chunk.js",
+    "static/js/2.2eb349f8.chunk.js.map": "/gh-Estes-Project/static/js/2.2eb349f8.chunk.js.map",
+    "index.html": "/gh-Estes-Project/index.html",
+    "precache-manifest.807be654ccdda8f14e64f2a5adef5866.js": "/gh-Estes-Project/precache-manifest.807be654ccdda8f14e64f2a5adef5866.js",
+    "service-worker.js": "/gh-Estes-Project/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/gh-Estes-Project/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.2eb349f8.chunk.js.LICENSE.txt": "/gh-Estes-Project/static/js/2.2eb349f8.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/gh-Estes-Project/static/media/logo.5d5d9eef.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.be344119.js",
+    "static/js/2.2eb349f8.chunk.js",
+    "static/css/main.5f361e03.chunk.css",
+    "static/js/main.6f91d205.chunk.js"
+  ]
+}
