@@ -8,16 +8,15 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-            Iwasan ang pag-gastos Da. Please. Tipid us.
-            Para makakain us uli sa UST. Miss ko na mga datez natin.
+            Interior
         </p>
         <a
           className="App-link"
-          href="https://www.facebook.com/franz.bala"
+          href="https://www.google.com"
           target="_blank"
           rel="noopener noreferrer"
         >
-          Love, Franz 💖
+          Google
         </a>
       </header>
     </div>
