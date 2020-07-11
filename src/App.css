@@ -40,8 +40,17 @@
 
 .topnav{
   text-align: center;
-  margin-top: 50px;
 }
 .title{
   color:black;
+}
+
+.hd-btns Button{
+  border-radius: 16px;
+  min-width: 150px;
+}
+
+.user-input{
+  display: inline-block;
+  color:rgb(20, 20, 27);
 }
