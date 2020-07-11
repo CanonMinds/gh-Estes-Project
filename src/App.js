@@ -4,21 +4,23 @@ import './App.css';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-            Interior
-        </p>
-        <a
-          className="App-link"
-          href="https://www.google.com"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Google
-        </a>
+    <div className="">
+      <header className="">
+        <div className="topnav">
+          <a class="title">Task Scheduler App</a>
+        </div>
       </header>
+      <table className="">
+        <thead>
+            <tr>
+              <td>Number</td>
+              <td>Task</td>
+            </tr>
+        </thead>
+        <tbody>
+
+        </tbody>
+      </table>
     </div>
   );
 }
