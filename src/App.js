@@ -9,7 +9,7 @@ function App() {
     <div className="mb-5">
       <header className="">
         <div className="topnav my-3 mx-3">
-          <a className="title">BMI and Energy Calculator</a>
+          <a className="title"><strong>BMI and Energy Calculator</strong></a>
         </div>
       </header>
       <div className="mx-3 col-sm-6 col-md-6 col-lg-8">
