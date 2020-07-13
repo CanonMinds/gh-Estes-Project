@@ -54,3 +54,7 @@
   display: inline-block;
   color:rgb(20, 20, 27);
 }
+
+select {
+  border:none;
+}
