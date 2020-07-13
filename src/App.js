@@ -9,11 +9,13 @@ function App() {
     <div className="mb-5">
       <header className="">
         <div className="topnav my-3 mx-3">
-          <a className="title"><strong>BMI and Energy Calculator</strong></a>
+          <a className="title">
+            <strong>BMI and Energy Calculator</strong>
+          </a>
         </div>
       </header>
       <div className="mx-3 col-sm-6 col-md-6 col-lg-8">
-        <Form autocomplete="off">
+        <Form autoComplete="off">
           <Form.Group as={Row} controlId="formHorizontalEmail">
             <Form.Label column sm={2}>
               Height
@@ -45,7 +47,7 @@ function App() {
             <Col sm={4}>
               <select>
                 <option value="Male">Male</option>
-                <option selected value="Female">Female</option>
+                <option value="Female">Female</option>
                 <option value="rather not say">Rather not say</option>
               </select>
             </Col>
@@ -55,8 +57,8 @@ function App() {
               Race
             </Form.Label>
             <Col sm={4}>
-            <select>
-                <option selected value="Australoid">Australoid</option>
+              <select>
+                <option value="Australoid">Australoid</option>
                 <option value="Caucasiod">Caucasiod</option>
                 <option value="Capoid">Capoid</option>
                 <option value="Mongoloid">Mongoloid</option>
@@ -64,7 +66,7 @@ function App() {
               </select>
             </Col>
           </Form.Group>
-          <Button className="mr-2"variant="primary" type="submit">
+          <Button className="mr-2" variant="primary" type="submit">
             Calculate BMI
           </Button>
           {/* <br></br> */}
@@ -72,6 +74,9 @@ function App() {
             Calculate Energy
           </Button>
         </Form>
+        <Button>Upload</Button>
+        <script>
+        </script>
       </div>
     </div>
   );
