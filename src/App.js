@@ -6,7 +6,7 @@ import { Button, Form, Row, Col } from 'react-bootstrap';
 
 function App() {
   return (
-    <div className="mb-5">
+    <div className="mb-5 mx-3 col-sm-12 col-md-12 col-lg-12">
       <header className="">
         <div className="topnav my-3 mx-3">
           <a className="title">
@@ -14,7 +14,7 @@ function App() {
           </a>
         </div>
       </header>
-      <div className="mx-3 col-sm-6 col-md-6 col-lg-8">
+      <div className="">
         <Form autoComplete="off">
           <Form.Group as={Row} controlId="formHorizontalEmail">
             <Form.Label column sm={2}>
@@ -66,15 +66,14 @@ function App() {
               </select>
             </Col>
           </Form.Group>
-          <Button className="mr-2" variant="primary" type="submit">
+          <Button className="btn mr-2 px-5" variant="primary">
             Calculate BMI
           </Button>
           {/* <br></br> */}
-          <Button className="my-2" variant="success" type="submit">
+          <Button className="btn my-2 px-5" variant="success">
             Calculate Energy
           </Button>
         </Form>
-        <Button>Upload</Button>
         <script>
         </script>
       </div>

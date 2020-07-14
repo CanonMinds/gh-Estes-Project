@@ -62,3 +62,7 @@ select {
 Form Label{
   font-weight: bold;
 }
+
+.btn{
+  border-radius: 20px;
+}
